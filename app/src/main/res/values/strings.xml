@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Lab_Intents</string>
+    <string name="btn_goToExplicitActivity">Go to explicit activity</string>
+    <string name="btn_goToImplicitActivity">Go to implicit activity</string>
+    <string name="shareData">Share data</string>
+    <string name="chooseImage">Choose image</string>
+    <string name="btnApprove">Во ред</string>
+    <string name="btnDismiss">Откажи</string>
+    <string name="title_activity_list_view">ListViewActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
